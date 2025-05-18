@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
-    "build": "vue-tsc && vite build"
+    "build": "vue-tsc --declaration --emitDeclarationOnly && vite build"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +21,13 @@
   "publishConfig": {
     "access": "public"
   },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/noix-theme-vue.es.js",
+      "require": "./dist/noix-theme-vue.umd.js"
+    }
+  },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/postcss": "^4.1.7",
@@ -31,6 +38,7 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.7",
     "vite": "^6.3.5",
+    "vite-plugin-dts": "^4.5.4",
     "vue-router": "^4.5.1",
     "vue-tsc": "^2.2.10"
   }
