@@ -1,6 +1,6 @@
 {
   "name": "noix-theme-vue",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A Noix default Vue Theme based on Tailwind.css",
   "main": "index.js",
   "scripts": {

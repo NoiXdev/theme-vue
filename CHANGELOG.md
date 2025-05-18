@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/NoiXdev/theme-vue/compare/v0.3.0...v0.3.1) (2025-05-18)
+
+
+### Reverts
+
+* Revert "feat: change back to tailwind 3" ([f8803b7](https://github.com/NoiXdev/theme-vue/commit/f8803b7a51a14a5e290fb62a8984cc27f59d8fb8))
+
+
+
 # [0.3.0](https://github.com/NoiXdev/theme-vue/compare/v0.2.0...v0.3.0) (2025-05-18)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * **ui:** init all components ([2b55848](https://github.com/NoiXdev/theme-vue/commit/2b5584861796fb7ef94b7cddcfbf8666341f667c))
-
-
-
-## [0.0.9](https://github.com/NoiXdev/theme-vue/compare/v0.0.8...v0.0.9) (2025-05-18)
-
-
-### Features
-
-* **ui:** init all components ([8980fba](https://github.com/NoiXdev/theme-vue/commit/8980fbad2b23f9e14e1ca7c3dddcbcad69f3df4d))
 
 
 
