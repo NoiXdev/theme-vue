@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/NoiXdev/theme-vue/compare/v0.2.0...v0.3.0) (2025-05-18)
+
+
+### Features
+
+* change back to tailwind 3 ([cb782db](https://github.com/NoiXdev/theme-vue/commit/cb782db3f21b092c3c10d71b9adbfb4f51c30eda))
+
+
+
 # [0.2.0](https://github.com/NoiXdev/theme-vue/compare/v0.1.0...v0.2.0) (2025-05-18)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * **ui:** init all components ([8980fba](https://github.com/NoiXdev/theme-vue/commit/8980fbad2b23f9e14e1ca7c3dddcbcad69f3df4d))
-
-
-
-## [0.0.8](https://github.com/NoiXdev/theme-vue/compare/v0.0.7...v0.0.8) (2025-05-18)
-
-
-### Features
-
-* **ui:** adding NoixButton ([74489a8](https://github.com/NoiXdev/theme-vue/commit/74489a8bb5ad408506fb5743daebd6babd31cffb))
 
 
 
