@@ -1,0 +1,34 @@
+{
+  "name": "@noix-theme/vue",
+  "version": "0.0.1",
+  "description": "A Noix default Vue Theme based on Tailwind.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vue-tsc && vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.3",
+    "vue": "^3.5.14"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/postcss": "^4.1.7",
+    "@tailwindcss/vite": "^4.1.7",
+    "@types/node": "^22.15.18",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7",
+    "vite": "^6.3.5",
+    "vue-router": "^4.5.1",
+    "vue-tsc": "^2.2.10"
+  }
+}
