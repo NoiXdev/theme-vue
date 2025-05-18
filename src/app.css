@@ -1,6 +1,4 @@
-@import "tailwindcss";
-
-@plugin '@tailwindcss/forms';
-
-@source "components/**/*.vue";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
