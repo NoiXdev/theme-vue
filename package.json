@@ -27,6 +27,10 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/noix-theme-vue.es.js",
       "require": "./dist/noix-theme-vue.umd.js"
+    },
+    "./dist/noix-theme-vue.css": {
+      "import": "./dist/noix-theme-vue.css",
+      "require": "./dist/noix-theme-vue.css"
     }
   },
   "devDependencies": {
