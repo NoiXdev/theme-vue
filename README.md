@@ -1,1 +1,1 @@
-# Noix Theme
+# Noix VUE Theme
