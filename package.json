@@ -1,5 +1,5 @@
 {
-  "name": "@noix-theme/vue",
+  "name": "noix-theme-vue",
   "version": "0.0.3",
   "description": "A Noix default Vue Theme based on Tailwind.css",
   "main": "index.js",
