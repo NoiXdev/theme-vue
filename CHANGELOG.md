@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/NoiXdev/theme-vue/compare/v0.1.0...v0.2.0) (2025-05-18)
+
+
+### Features
+
+* add some changes to test the workflow ([02467d5](https://github.com/NoiXdev/theme-vue/commit/02467d5c0e55ede1f14bafffd5456e9938c45e73))
+
+
+
 # [0.1.0](https://github.com/NoiXdev/theme-vue/compare/v0.0.10...v0.1.0) (2025-05-18)
 
 
@@ -31,10 +40,6 @@
 ### Features
 
 * **ui:** adding NoixButton ([74489a8](https://github.com/NoiXdev/theme-vue/commit/74489a8bb5ad408506fb5743daebd6babd31cffb))
-
-
-
-## [0.0.7](https://github.com/NoiXdev/theme-vue/compare/v0.0.6...v0.0.7) (2025-05-18)
 
 
 
